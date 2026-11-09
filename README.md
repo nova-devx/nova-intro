@@ -2,6 +2,8 @@
 
 NOVA is a personal virtual assistant that runs on your own hardware. She lives on your machine, works with your files and tools, and helps you get things done.
 
+**Version:** 1.0.0
+
 ## What NOVA is
 - A personal AI assistant running locally, not a cloud service.
 - A tool for building, researching, and organizing — code, notes, reminders, and projects.
